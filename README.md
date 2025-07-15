@@ -20,7 +20,7 @@ This Python script fetches a public Reddit user's recent activity and generates 
 ```bash
 git clone https://github.com/souvik0908/Assignment.git
 cd Assignment
----
+---bash
 ### 2. Set up a virtual environment
 bash
 Copy
