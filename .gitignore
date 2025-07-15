@@ -1,0 +1,27 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Environment variable files
+.env
+.env.*
+
+# Output files
+*.txt
+
+# Jupyter notebooks checkpoints (if any)
+.ipynb_checkpoints/
+
+# VSCode & PyCharm config
+.vscode/
+.idea/
+
+# macOS / Linux
+.DS_Store
+*.swp
