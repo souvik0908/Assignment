@@ -44,12 +44,21 @@ pip install -r requirements.txt
 🔐 5. Set Up Environment Variables
 Create a .env file in the root directory and add the following:
 
+<br>
 env
 Copy
 Edit
 REDDIT_CLIENT_ID=your_reddit_client_id
+
 REDDIT_CLIENT_SECRET=your_reddit_client_secret
+
 REDDIT_USER_AGENT=your_reddit_user_agent
+
 OPENROUTER_API_KEY=your_openrouter_api_key
-💡 Get Reddit API credentials: https://www.reddit.com/prefs/apps
-💡 Get OpenRouter API key: https://openrouter.ai/
+<br>
+💡 Get Reddit API credentials:
+https://www.reddit.com/prefs/apps
+
+<br>
+💡 Get OpenRouter API key:
+https://openrouter.ai/
