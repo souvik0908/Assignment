@@ -13,7 +13,7 @@ env/
 .env.*
 
 # Output files
-*.txt
+kojied_persona.txt
 
 # Jupyter notebooks checkpoints (if any)
 .ipynb_checkpoints/
